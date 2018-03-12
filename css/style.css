@@ -157,8 +157,7 @@ body {
 
 @media only screen and (max-width: 1024px) {
   /* line 161, /home/kerketta/Desktop/sikhar_assignment/css/style.scss */
-  header {
-    background-size: cover !important; }
+ 
   /* line 164, /home/kerketta/Desktop/sikhar_assignment/css/style.scss */
   .details {
     padding: 5px !important;
